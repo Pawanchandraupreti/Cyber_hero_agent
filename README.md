@@ -1,4 +1,4 @@
-# Project Overview - Agent Shuttle 🛡️
+# Project Overview - Cyber_hero_agent 🛡️
 
 AI-Powered Cybersecurity Incident Triage Agent System — a multi-agent system that automates alert triage using parallel AI agents, OSINT tools, log analysis, memory, and observability. This project was built as a capstone-style submission for the Google AI Agents Intensive (Freestyle Track).
 
@@ -123,8 +123,3 @@ This multi-agent triage system demonstrates how combining agent orchestration, p
 - observability/ — tracing, logging, metrics utilities
 - examples/ — example alerts, test logs, and sample configurations
 - README.md — this file
-
-If you want, I can:
-- Add a generated Table of Contents with anchors
-- Convert the "Project Structure" list into an actual directory tree that matches the repo
-- Create an installation script or example config file for ADK integration
